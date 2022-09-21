@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "dotenv": "^16.0.2",
+    "ethereum-block-by-date": "^1.4.5",
+    "ethers": "^5.7.0",
+    "node-fetch": "^3.2.6"
+  }
+}
