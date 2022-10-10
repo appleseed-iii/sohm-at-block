@@ -398,11 +398,11 @@ elliptic@6.5.4:
     minimalistic-crypto-utils "^1.0.1"
 
 ethereum-block-by-date@^1.4.5:
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/ethereum-block-by-date/-/ethereum-block-by-date-1.4.5.tgz#ae954a4499942d03837e702033d75acf6a0f96dd"
-  integrity sha512-mxDUx+yxIGPgKz82HjijFDCoZLT+in+p3tHJ82JDQTLDUl92uNDCNF85PPvchgzrhRlwDM4F0q7/qed5MeJKNw==
+  version "1.4.6"
+  resolved "https://registry.yarnpkg.com/ethereum-block-by-date/-/ethereum-block-by-date-1.4.6.tgz#80227834ab8a5ebd3318ba58b985b07d47731ba8"
+  integrity sha512-MV7QAjeTl3zuVSeRfNdXeJQCfiwc4wCIXiLMnWqarmhyXzzUqq36+aDsqBFbV/D07WiW5JiuQ7KVtLLaqt6WQw==
   dependencies:
-    moment "^2.29.2"
+    moment "^2.29.4"
 
 ethers@^5.7.0:
   version "5.7.0"
@@ -492,7 +492,7 @@ minimalistic-crypto-utils@^1.0.1:
   resolved "https://registry.yarnpkg.com/minimalistic-crypto-utils/-/minimalistic-crypto-utils-1.0.1.tgz#f6c00c1c0b082246e5c4d99dfb8c7c083b2b582a"
   integrity sha512-JIYlbt6g8i5jKfJ3xz7rF0LXmv2TkDxBLUkiBeZ7bAx4GnnNMr8xFpGnOxn6GhTEHx3SjRrZEoU+j04prX1ktg==
 
-moment@^2.29.2:
+moment@^2.29.4:
   version "2.29.4"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
   integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
